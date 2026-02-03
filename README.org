@@ -3,7 +3,7 @@
 Reader Syntax Coventions for Common Lisp and SLIME
 
 |---------+-------------------------------------------------------------------------------------------------|
-| source  | git:https://github.com/m2ym/cl-syntax.git                                                       |
-| commit  | 03f0c32                                                                                         |
+| source  | git:https://github.com/lisp-maintainers/cl-syntax.git                                           |
+| commit  | 9bbb6ef                                                                                         |
 | systems | cl-syntax cl-syntax-annot cl-syntax-anonfun cl-syntax-clsql cl-syntax-fare-quasiquote cl-syntax-interpol cl-syntax-markup |
 |---------+-------------------------------------------------------------------------------------------------|

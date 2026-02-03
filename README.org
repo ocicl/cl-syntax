@@ -2,8 +2,8 @@
 
 Reader Syntax Coventions for Common Lisp and SLIME
 
-0000000---------+-------------------------------------------------------------------------------------------------|
-0000000 source  | git:https://github.com/lisp-maintainers/cl-syntax.git                                           |
-0000000 commit  | 9bbb6ef                                                                                         |
-0000000 systems | cl-syntax cl-syntax-annot cl-syntax-anonfun cl-syntax-clsql cl-syntax-fare-quasiquote cl-syntax-interpol cl-syntax-markup |
-0000000---------+-------------------------------------------------------------------------------------------------|
+|---------+-------------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/lisp-maintainers/cl-syntax.git                                           |
+| commit  | 9bbb6ef                                                                                         |
+| systems | cl-syntax cl-syntax-annot cl-syntax-anonfun cl-syntax-clsql cl-syntax-fare-quasiquote cl-syntax-interpol cl-syntax-markup |
+|---------+-------------------------------------------------------------------------------------------------|
